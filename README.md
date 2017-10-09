@@ -41,4 +41,5 @@ encontramos dois Patterns, o State e o Observer e nos Zumbis encontramos o Compo
 
 ## Conclusão
 
-- Esse projeto é um exemplo academico de implementação de varios Patterns com o objetivo de demonstrar a interração delles.
+- Esse projeto é um exemplo academico de implementação de varios Patterns com o objetivo de demonstrar a interassão deles.
+
