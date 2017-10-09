@@ -7,9 +7,9 @@ Zwmbie
 
 Clone o projeto para sua máquina:
 
-´´´bash
+```bash
 $ git clone <LINK DO REPOSITÓRIO>
-´´´
+```
 
 - Abra o projeto no NetBeans(ou o editor de texto a sua preferencia).
 
