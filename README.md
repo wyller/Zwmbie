@@ -19,7 +19,7 @@ $ git clone <LINK DO REPOSITÓRIO>
 encontramos dois Patterns, o State e o Observer e nos Zumbis encontramos o Composite e o Builder.
 
 ## Sobre o projeto
--segue a explicação das funções de cada Patterns em seus devidos pacotes pacote:
+- segue a explicação das funções de cada Patterns em seus devidos pacotes pacote:
 	
 #### Patterns State, pacote "zwmbie.PlayerState"
 
