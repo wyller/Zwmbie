@@ -28,7 +28,7 @@ public class Zwmbie {
         Player Leon = new Player();
         Leon.addObservadores(new ObservadorInfeccao());
         
-        Leon.setAcontecimento("mordida");
+        Leon.setAcontecimento("Mordida");
         Leon.andar();
         Leon.atacar();
         

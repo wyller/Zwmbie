@@ -10,7 +10,11 @@ import zwmbie.PlayerState.Normal;
 public class Player {
     private List<Observador> observadores = new ArrayList<>();
     private State estado;
-      
+
+    public Player(){
+        this.estado = new Normal();
+    }
+        
     public void andar(){
         estado.andar();
     }
@@ -27,7 +31,7 @@ public class Player {
         if(acao.equalsIgnoreCase("mordida")){
             setEstado(new Infectado());
         }
-        else if(acao.equalsIgnoreCase("remedio")){
+        else {
             setEstado(new Normal());
         }
         
